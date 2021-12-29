@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "I’m Albertino, a software engineer in the Seattle area. Most folks call me Tino for short. I do personal projects mostly in Swift and Python, with a special interest in ML. .",
           "url": "https://tinoml.dev/about/",
           "relUrl": "/about/",
           "date": ""

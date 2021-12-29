@@ -6,7 +6,6 @@
 
 https://tinoml.dev
 
-https://albertinopadin.github.io/tinodevblog/
 
 # My Blog
 
