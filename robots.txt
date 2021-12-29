@@ -1,1 +1,1 @@
-Sitemap: https://tinodev.blog/sitemap.xml
+Sitemap: https://tinoml.dev/sitemap.xml
