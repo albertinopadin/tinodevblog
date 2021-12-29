@@ -4,8 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I'm Albertino, a software engineer in the Seattle area. Most folks call me Tino for short. I do personal projects mostly in Swift and Python, with a special interest in ML.
