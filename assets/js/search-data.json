@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "I’m Albertino, a software engineer in the Seattle area. Most folks call me Tino for short. I do personal projects mostly in Swift and Python, with a special interest in ML. You can go to my YouTube to see videos of my projects in action, and my Github to see my code. .",
+          "content": "I’m Albertino, a software engineer in the Seattle area. Most folks call me Tino for short. I do personal projects mostly in Swift and Python, with a special interest in machine learning. You can go to my YouTube to see videos of my projects in action, and my Github to see my code. .",
           "url": "https://tinoml.dev/about/",
           "relUrl": "/about/",
           "date": ""
